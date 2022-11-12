@@ -27,3 +27,4 @@ This assignment has two parts:
 
 Follow the guide in demo/a3/ to complete the tasks.
 Place your manifests in k8s/manifests/ and commands used in k8s/a3_setup.sh.
+# OTOT-A2-A3
